@@ -1,6 +1,9 @@
 # hello_world
-//my first repository
 
-int c = 0, d = 1;
+#include <stdio.h>
+
+int c = 100;
 printf("%d",c);
-printf("%d",d);
+
+int d = 0;
+printf("%d",d)
